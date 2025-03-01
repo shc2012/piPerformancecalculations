@@ -21,4 +21,4 @@ Uses a rapidly converging series formula:
 Each term improves accuracy by ~3 decimal places
 Number of iterations is proportional to the desired accuracy
 Windows下载链接https://pan.312314.xyz/s/Xkiq
-Windows Downloadhttps://pan.312314.xyz/s/Xkiq
+Windows Download https://pan.312314.xyz/s/Xkiq
