@@ -20,5 +20,5 @@ Uses a rapidly converging series formula:
 π = 3 + 4/(2×3×4) – 4/(4×5×6) + 4/(6×7×8) – ...
 Each term improves accuracy by ~3 decimal places
 Number of iterations is proportional to the desired accuracy
-Windows下载链接https://pan.312314.xyz/s/Xkiq
-Windows Download https://pan.312314.xyz/s/Xkiq
+老版Windows下载链接https://pan.312314.xyz/s/Xkiq
+oudWindows Download https://pan.312314.xyz/s/Xkiq
